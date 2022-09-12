@@ -7,3 +7,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 5: Objects](./objects/)
 - [Section 6: Arrays](./arrays/)
 - [Section 7: Union Types](./union-types/)
+- [Section 8: Tuples and Enums](./tuples/)
