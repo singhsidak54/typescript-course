@@ -9,3 +9,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 7: Union Types](./union-types/)
 - [Section 8: Tuples and Enums](./tuples/)
 - [Section 9: Interfaces](./interfaces/)
+- [Section 11: Mini Project](./mini-project/)
