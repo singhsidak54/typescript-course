@@ -6,3 +6,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 4: Functions](./functions/)
 - [Section 5: Objects](./objects/)
 - [Section 6: Arrays](./arrays/)
+- [Section 7: Union Types](./union-types/)
