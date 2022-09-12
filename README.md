@@ -11,3 +11,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 9: Interfaces](./interfaces/)
 - [Section 11: Mini Project](./mini-project/)
 - [Section 13: Classes](./classes/)
+- [Section 14: Generics](./generics/)
