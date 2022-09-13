@@ -13,3 +13,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 13: Classes](./classes/)
 - [Section 14: Generics](./generics/)
 - [Section 17: Modules](./modules/)
+- [Section 18: Webpack](./webpack-demo/)
