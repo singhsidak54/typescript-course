@@ -12,3 +12,4 @@ This repository will contain my learnings from the course [Mastering TypeScript 
 - [Section 11: Mini Project](./mini-project/)
 - [Section 13: Classes](./classes/)
 - [Section 14: Generics](./generics/)
+- [Section 17: Modules](./modules/)
